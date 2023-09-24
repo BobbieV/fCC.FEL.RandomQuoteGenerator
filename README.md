@@ -9,6 +9,10 @@ Those things didn't work.
 
 This version has the added _redirects file, but now lacks the subfolder.
 
+Much gratitude to the Landon345 for the youtube video support.
+[
+](https://youtu.be/Xjwel6fZUdA)https://youtu.be/Xjwel6fZUdA
+
 
 
 
